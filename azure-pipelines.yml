@@ -53,7 +53,7 @@ stages:
     displayName: Deploy
     pool:
       name: Default
-    environment: 'mynecodeTetris-Game.default'
+    environment: Ashfaque-9x/TetrisGame.default'
     strategy:
       runOnce:
         deploy:
